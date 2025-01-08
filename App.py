@@ -13,3 +13,4 @@ with col2:
     st.write('''Neymar is one of my favorite players in the world. I am disappointed when he is not playing.''')
 
 st.header('Lets go')
+st.subheader('Dribbling - 90')
