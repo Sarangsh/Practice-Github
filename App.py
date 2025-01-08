@@ -10,5 +10,6 @@ with col1:
     st.image('/Users/sarangsh/Documents/GitHub/Practice-Github/Neymar.jpeg',caption='Neymar')
 
 with col2:
-    st.write('''Neymar is one of my favorite players in the world. 
-    I am disappointed when he is not playing.''')
+    st.write('''Neymar is one of my favorite players in the world. I am disappointed when he is not playing.''')
+
+st.header('Lets go')
