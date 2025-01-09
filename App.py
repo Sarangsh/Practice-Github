@@ -19,5 +19,7 @@ st.sidebar.title('Neymar stats')
 st.sidebar.markdown('''
 
 -Hairstyle - WOW
+- Flair - Incredible
+- Hunger - Ecstatic
                     
 ''')
