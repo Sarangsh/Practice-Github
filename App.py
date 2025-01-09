@@ -14,3 +14,10 @@ with col2:
 
 st.header('Lets go')
 st.subheader('Dribbling - 90')
+
+st.sidebar.title('Neymar stats')
+st.sidebar.markdown('''
+
+-Hairstyle - WOW
+                    
+''')
