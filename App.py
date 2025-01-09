@@ -23,3 +23,6 @@ st.sidebar.markdown('''
 - Hunger - Ecstatic
                     
 ''')
+
+st.sidebar.selectbox('Select one',['Messi','Suarez'])
+st.sidebar.button('Select')
